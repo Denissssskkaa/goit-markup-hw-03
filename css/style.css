@@ -206,9 +206,9 @@ body {
   .our-team-item {
     border-radius: 0 0 4px 4px;
     width: calc((100% - 72px) / 4);
+    background-color: #fff;
   }
   .our-team-picture {
-    margin-bottom: 32px;
   }
   .our-team-container {
     padding: 32px 0;
@@ -296,6 +296,7 @@ body {
     color: #4d5ae5;
   }
   .footer-text {
+    max-width: 264px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
